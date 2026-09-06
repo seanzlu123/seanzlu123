@@ -87,41 +87,6 @@ I like building things at the intersection of software, AI, and the physical wor
 
 ---
 
-## 📡 live github telemetry
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=seanzlu123&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanzlu123&layout=compact&hide_border=true" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=seanzlu123&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seanzlu123&hide_border=true&area=true" width="98%" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## 🐍 contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seanzlu123/seanzlu123/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seanzlu123/seanzlu123/output/github-contribution-grid-snake.svg" />
-  <img alt="Sean's contribution snake" src="https://raw.githubusercontent.com/seanzlu123/seanzlu123/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>generated from my actual contribution graph and refreshed automatically ✨</sub>
-
-</div>
-
----
-
 ## 🐣 tiny sean facts
 
 ```text
