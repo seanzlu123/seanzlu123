@@ -142,9 +142,9 @@ I like building things at the intersection of software, AI, and the physical wor
 <td width="50%" valign="top">
 
 ### 🔺 VALORANT
-**Peak Rank:** TBD
+**Peak Rank:** Diamond 3
 
-`competitive fps` `aim diff`
+`competitive fps` `D3 peak`
 
 </td>
 <td width="50%" valign="top">
@@ -182,9 +182,7 @@ I like building things at the intersection of software, AI, and the physical wor
 
 <div align="center">
 
-<sub>sometimes I touch grass. sometimes.</sub>
-
-<br/><br/>
+<br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=850&center=true&vCenter=true&width=650&lines=thanks+for+stopping+by+%E2%9C%A8;still+under+construction...;probably+always+will+be+%F0%9F%A4%96)
 
