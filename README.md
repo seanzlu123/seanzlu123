@@ -77,11 +77,56 @@ I like building things at the intersection of software, AI, and the physical wor
 
 ---
 
-## 🧸 tech i play with
+## 🧠 skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI / Machine Learning
+`PyTorch` `LLMs` `LLM Agents` `RAG` `NLP` `Computer Vision` `Multimodal AI` `Reinforcement Learning` `GRPO` `Code-as-Policy` `Prompting` `Model Evaluation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🦾 Robotics / Embodied AI
+`ROS2` `Isaac Sim` `Isaac Lab` `Robosuite` `RoboCasa` `cuRobo` `Robot Learning` `Runtime Verification` `Failure Recovery` `Robot Trace Analysis` `Contract Synthesis`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Programming
+`Python` `C++` `C` `Java` `JavaScript` `SQL` `HTML` `CSS` `R` `SAS`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Software / Infrastructure
+`Linux` `Git` `Docker` `FastAPI` `Pytest` `Ray` `AWS` `Weights & Biases` `Bazel` `REST APIs` `Experiment Orchestration` `Reproducible Evaluation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Research / Evaluation
+`Experimental Design` `Benchmarking` `Failure Analysis` `Deterministic Validation` `Large-Scale Trial Analysis` `Execution Traces` `Reproducibility` `Technical Writing`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Systems / Dev Tools
+`VS Code` `GitHub` `GPU ML Workflows` `Backend Development` `Testing Infrastructure` `Debugging` `API Integration` `Raspberry Pi`
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,linux,git,github,vscode,raspberrypi&perline=8" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,pytorch,linux,git,github,docker,aws,vscode,raspberrypi&perline=8" alt="Technical skill icons" />
 
 </div>
 
@@ -106,7 +151,7 @@ I like building things at the intersection of software, AI, and the physical wor
 <tr>
 <td width="50%" valign="top">
 
-### 🔺 VALORANT
+### <img src="https://www.google.com/s2/favicons?domain_url=https://playvalorant.com&sz=64" width="18" height="18" alt="VALORANT icon" /> VALORANT
 **Peak Rank:** Diamond 3
 
 `competitive fps` `D3 peak`
@@ -114,7 +159,7 @@ I like building things at the intersection of software, AI, and the physical wor
 </td>
 <td width="50%" valign="top">
 
-### ⚔️ League of Legends: Wild Rift
+### <img src="https://www.google.com/s2/favicons?domain_url=https://wildrift.leagueoflegends.com&sz=64" width="18" height="18" alt="Wild Rift icon" /> League of Legends: Wild Rift
 **Peak Rank:** Challenger  
 🏆 Former competitive player  
 ☁️ Beat the **Cloud9 Wild Rift team**
@@ -126,7 +171,7 @@ I like building things at the intersection of software, AI, and the physical wor
 <tr>
 <td width="50%" valign="top">
 
-### 🪖 Delta Force
+### <img src="https://www.google.com/s2/favicons?domain_url=https://deltaforce.garena.com&sz=64" width="18" height="18" alt="Delta Force icon" /> Delta Force
 **Highest Rank:** Field Marshal  
 💀 **Most Kills in One Match:** 197
 
@@ -135,7 +180,7 @@ I like building things at the intersection of software, AI, and the physical wor
 </td>
 <td width="50%" valign="top">
 
-### 🦸 Marvel Rivals
+### <img src="https://www.google.com/s2/favicons?domain_url=https://www.marvelrivals.com&sz=64" width="18" height="18" alt="Marvel Rivals icon" /> Marvel Rivals
 **Peak Rank:** Grandmaster — Season 0  
 🐈‍⬛ **Black Panther main**
 
