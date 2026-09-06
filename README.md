@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2600&pause=750&center=true&vCenter=true&width=760&lines=building+AI+that+interacts+with+the+real+world+%F0%9F%A4%96;robotics+%E2%80%A2+embodied+AI+%E2%80%A2+software;probably+building+something+right+now+%E2%9C%A8;research+mode%3A+on+%F0%9F%A7%A0;side+quest+mode%3A+also+on+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=seanzlu123&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sean%20Lu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seanlu0903/)
 
 </div>
 
