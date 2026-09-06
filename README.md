@@ -1,33 +1,58 @@
-# Hi, I'm Sean 👋
+<div align="center">
 
-Computer Science student at Penn State interested in AI, robotics, and software systems.
+# hi, i'm sean 👋
 
-## About Me
+### ai • robotics • software
 
-* 🤖 Interested in embodied AI and robotics
-* 🔬 Working on research involving AI safety and physical systems
-* 🎧 Building Jarvis.io, an AirPods-first personal AI assistant
-* 🎓 B.S. in Computer Science at Penn State
-* 💻 I like building things that connect AI with real-world systems
+<img src="YOUR_BANNER_HERE" width="100%" />
 
-## Featured Projects
+![Typing SVG](ANIMATED_TYPING_LINK)
 
-### Trace2Contract
+</div>
 
-Research on contracts and runtime safety for embodied AI systems.
+---
 
-### Jarvis.io
+### 🌱 currently
 
-An AirPods-first AI assistant for iPhone.
+- 🤖 working on embodied AI + robotics research
+- 🎧 building Jarvis.io
+- 🧠 learning more about ML, robotics, and intelligent systems
+- 🎓 computer science @ penn state
 
-### Capstone Project
+---
 
-A hardware/software capstone project involving Raspberry Pi systems.
+### ✨ things i've built
 
-## Technologies
+| Project | What it is |
+|---|---|
+| 🤖 Trace2Contract | runtime safety + contracts for embodied AI |
+| 🎧 Jarvis.io | AirPods-first personal AI assistant |
+| 🛠 Capstone | Raspberry Pi hardware/software system |
 
-Python · C++ · ROS2 · Linux · Git · R
+---
 
-## Connect
+### 🧸 tech i use
 
-LinkedIn · Resume · Portfolio
+[Python badge] [C++ badge] [ROS2 badge] [Linux badge] [Git badge]
+
+---
+
+### 📊 little github things
+
+[GitHub stats card]
+
+[GitHub streak card]
+
+[Top languages card]
+
+---
+
+### 🐍 contributions
+
+[animated contribution snake]
+
+---
+
+### 🌸 find me
+
+[LinkedIn] [Resume] [Portfolio]
