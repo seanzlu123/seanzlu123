@@ -34,6 +34,23 @@ caffeine    : ███████░░░
 
 ---
 
+## 🎓 school
+
+<div align="center">
+
+<img src="https://www.google.com/s2/favicons?domain_url=https://www.psu.edu&sz=128" width="42" height="42" alt="Penn State icon" />
+
+### The Pennsylvania State University
+**B.S. Computer Science · Class of 2027**
+
+[![We Are Penn State](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1100&pause=350&center=true&vCenter=true&width=620&lines=WE+ARE...;PENN+STATE!+%F0%9F%A6%81;WE+ARE...;PENN+STATE!+%F0%9F%A6%81)](https://www.psu.edu/)
+
+<sub>University Park, Pennsylvania</sub>
+
+</div>
+
+---
+
 ## ✨ things i've built
 
 <table>
