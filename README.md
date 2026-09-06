@@ -108,6 +108,66 @@ I like building things at the intersection of software, AI, and the physical wor
 
 ---
 
+### 🎮 side quests
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔺 VALORANT
+
+**Peak Rank:** TBD
+
+`competitive fps` `aim diff`
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚔️ League of Legends: Wild Rift
+
+**Peak Rank:** Challenger
+🏆 Former competitive player
+☁️ Beat the **Cloud9 Wild Rift team**
+
+`challenger` `competitive`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🪖 Delta Force
+
+**Highest Rank:** Field Marshal
+💀 **Most Kills in One Match:** 197
+
+`field marshal` `197 kills`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🦸 Marvel Rivals
+
+**Peak Rank:** Grandmaster — Season 0
+🐈‍⬛ **Black Panther main**
+
+`grandmaster` `BP main`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>sometimes I touch grass. sometimes.</sub>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🌸 thanks for stopping by
