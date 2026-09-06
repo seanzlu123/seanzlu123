@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" fill="none" stroke="#30363d"/>
+
+  <g opacity="0.8" filter="url(#glow)">
+    <circle cx="95" cy="75" r="4" fill="#8b5cf6"><animate attributeName="cy" values="75;55;75" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="235" r="3" fill="#60a5fa"><animate attributeName="cy" values="235;210;235" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="82" r="4" fill="#22d3ee"><animate attributeName="cy" values="82;58;82" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="230" r="3" fill="#8b5cf6"><animate attributeName="cy" values="230;205;230" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="250" r="2.5" fill="#60a5fa"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="65" r="2.5" fill="#22d3ee"><animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g font-family="monospace" fill="#c9d1d9">
+    <text x="42" y="48" font-size="18">●  ●  ●</text>
+    <text x="42" y="86" font-size="18" fill="#8b949e">sean@github:~$</text>
+    <text x="205" y="86" font-size="18" fill="#58a6ff">whoami</text>
+  </g>
+
+  <text x="600" y="152" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" fill="url(#accent)">SEAN LU</text>
+  <text x="600" y="194" text-anchor="middle" font-family="monospace" font-size="22" fill="#c9d1d9">AI • ROBOTICS • SOFTWARE</text>
+  <text x="600" y="238" text-anchor="middle" font-family="monospace" font-size="17" fill="#8b949e">building things that think, move, and occasionally break</text>
+
+  <g transform="translate(1040 135)">
+    <rect x="0" y="0" width="68" height="54" rx="12" fill="#21262d" stroke="#58a6ff"/>
+    <circle cx="22" cy="23" r="6" fill="#22d3ee"><animate attributeName="r" values="5;7;5" dur="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="46" cy="23" r="6" fill="#8b5cf6"><animate attributeName="r" values="7;5;7" dur="1.4s" repeatCount="indefinite"/></circle>
+    <path d="M20 39 Q34 48 48 39" fill="none" stroke="#c9d1d9" stroke-width="3" stroke-linecap="round"/>
+    <line x1="34" y1="0" x2="34" y2="-16" stroke="#58a6ff" stroke-width="3"/>
+    <circle cx="34" cy="-20" r="4" fill="#58a6ff"><animate attributeName="opacity" values="0.3;1;0.3" dur="1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g transform="translate(88 145)" font-family="monospace" font-size="16">
+    <text fill="#7ee787">✓ robotics</text>
+    <text y="28" fill="#d2a8ff">✓ research</text>
+    <text y="56" fill="#79c0ff">✓ side quests</text>
+  </g>
+
+  <rect x="415" y="272" width="370" height="3" rx="2" fill="#21262d"/>
+  <rect x="415" y="272" width="0" height="3" rx="2" fill="url(#accent)">
+    <animate attributeName="width" values="0;370;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
