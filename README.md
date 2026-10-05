@@ -13,8 +13,6 @@
 
 ---
 
-## 😂 meme corner
-
 <div align="center">
 
 <img src="./assets/cs-degree-meme.webp" width="850" alt="Computer science degree meme" />
@@ -78,8 +76,8 @@ caffeine    : ███████░░░
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Trace2Contract
-Runtime safety and contract synthesis for embodied AI systems.
+### 🤖 Trace2Contract In Progress*
+Runtime safety and contract synthesis for embodied AI systems. 
 
 `AI` `Robotics` `Research`
 
