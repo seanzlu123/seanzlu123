@@ -80,12 +80,12 @@ An AirPods-first personal AI assistant with an Expo/React Native client, FastAPI
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ [PSU Capstone](https://github.com/seanzlu123/PSU-Capstone-Fall2026)
+### 🛠️ PSU Capstone
 FPGA-based deterministic publish/subscribe databus for an autonomous object-following robot.
 
 `FPGA` `Embedded Systems` `Robotics` `Software`
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/seanzlu123/PSU-Capstone-Fall2026)
+<sub>Private / IP-restricted project</sub>
 
 </td>
 <td width="50%" valign="top">
