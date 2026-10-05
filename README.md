@@ -13,6 +13,26 @@
 
 ---
 
+## 😂 meme corner
+
+<div align="center">
+
+<img src="./assets/cs-degree-meme.webp" width="850" alt="Computer science degree meme" />
+
+<sub>the CS career pipeline is looking great 💀</sub>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=850&center=true&vCenter=true&width=650&lines=thanks+for+stopping+by+%E2%9C%A8;still+under+construction...;probably+always+will+be+%F0%9F%A4%96)
+
+</div>
+
+---
+
 ## 🛰️ sean.exe
 
 ```text
@@ -218,20 +238,3 @@ Minimal and modular ReAct-style autonomous LLM agents for AppWorld, with paralle
 
 ---
 
-## 😂 meme corner
-
-<div align="center">
-
-<img src="./assets/cs-degree-meme.webp" width="500" alt="Computer science degree meme" />
-
-<sub>the CS career pipeline is looking great 💀</sub>
-
-</div>
-
-<div align="center">
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=850&center=true&vCenter=true&width=650&lines=thanks+for+stopping+by+%E2%9C%A8;still+under+construction...;probably+always+will+be+%F0%9F%A4%96)
-
-</div>
