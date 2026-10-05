@@ -52,7 +52,7 @@ caffeine    : ███████░░░
 
 ---
 
-## ✨ things i've built
+## ✨ featured projects
 
 <table>
 <tr>
@@ -63,31 +63,39 @@ Runtime safety and contract synthesis for embodied AI systems.
 
 `AI` `Robotics` `Research`
 
+<sub>Research project · public repository coming later</sub>
+
 </td>
 <td width="50%" valign="top">
 
-### 🎧 Jarvis.io
-An AirPods-first personal AI assistant for iPhone.
+### 🎧 [Jarvis.io](https://github.com/seanzlu123/Jarvis.io)
+An AirPods-first personal AI assistant with an Expo/React Native client, FastAPI backend, Gemini responses, and speech output.
 
-`AI` `iOS` `Personal Assistant`
+`AI` `React Native` `FastAPI` `Voice Assistant`
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/seanzlu123/Jarvis.io)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛠️ Capstone
-A hardware + software system built around Raspberry Pi.
+### 🛠️ [PSU Capstone](https://github.com/seanzlu123/PSU-Capstone-Fall2026)
+FPGA-based deterministic publish/subscribe databus for an autonomous object-following robot.
 
-`Embedded Systems` `Hardware` `Software`
+`FPGA` `Embedded Systems` `Robotics` `Software`
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/seanzlu123/PSU-Capstone-Fall2026)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 more coming...
-I like building things at the intersection of software, AI, and the physical world.
+### 🧠 [ReAct Agent](https://github.com/seanzlu123/ReAct_Agent)
+Minimal and modular ReAct-style autonomous LLM agents for AppWorld, with parallel evaluation, best-of-N runs, experience memory, and experiment logging.
 
-`experiments` `ideas` `things`
+`LLM Agents` `ReAct` `AppWorld` `Research`
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/seanzlu123/ReAct_Agent)
 
 </td>
 </tr>
