@@ -216,6 +216,18 @@ Minimal and modular ReAct-style autonomous LLM agents for AppWorld, with paralle
 </tr>
 </table>
 
+---
+
+## 😂 meme corner
+
+<div align="center">
+
+<img src="./assets/cs-degree-meme.webp" width="500" alt="Computer science degree meme" />
+
+<sub>the CS career pipeline is looking great 💀</sub>
+
+</div>
+
 <div align="center">
 
 <br/>
